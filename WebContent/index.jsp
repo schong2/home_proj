@@ -11,7 +11,7 @@
 <div style="width:600px;height:80px;">
 <p> 新闻   运动 游戏 体育</p>
 </div>
-<div style="width:200px;height:500px; float:left;">
+<div style="width:80px;height:500px; float:left;">
 <p>国内新闻  国际新闻    热点新闻 </p>
 </div>
 <div style=" width:390px;height:200px;float:right;">
