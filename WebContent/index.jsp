@@ -10,6 +10,10 @@
 <h1>这是一个家庭作业</h1>
 <P>这是一个冲突</p>
     <P>这是一个冲突</p>
+<<<<<<< HEAD
     <p>hahahahhahah</p>
+=======
+    <p>这是另一个冲突</p>
+>>>>>>> branch 'master' of https://github.com/schong2/home_proj.git
 </body>
 </html>
